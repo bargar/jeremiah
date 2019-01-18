@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Everybody needs a friend. Sometimes that means a frog.",
   "main": "index.js",
+  "repository": "github:bargar/jeremiah",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
