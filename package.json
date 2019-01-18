@@ -1,6 +1,6 @@
 {
   "name": "jeremiah",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Everybody needs a friend. Sometimes that means a frog.",
   "main": "index.js",
   "repository": "github:bargar/jeremiah",
